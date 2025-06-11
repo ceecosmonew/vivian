@@ -26,7 +26,7 @@ function Footer() {
     <footer className="bg-dark text-light py-1 mt-1">
       <Container className="text-center">
         <p>&copy; {new Date().getFullYear()} MyPortfolio. All rights reserved.</p>
-        <p className='fw-bold'>My Social Media Handles:</p>
+{/*         <p className='fw-bold'>My Social Media Handles:</p> */}
         <p>
           <a href="/pdf/vivian.pdf" className="text-white" download>Download CV</a> |
           <a href="https://linkedin.com/in/ur profile" target="_blank" rel="noreferrer" className="text-white mx-2"><i className='fa-brands fa-linkedin-in fa-2x text-primary'></i></a>

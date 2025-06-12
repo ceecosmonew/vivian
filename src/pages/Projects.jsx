@@ -54,10 +54,10 @@ const projects = [
   { title: 'Login Form', desc: 'A simple login UI built with HTML, CSS, and Bootstrap.', image: pic2 },
   { title: 'React Practice App', desc: 'A mini-app built with React during practice.', image: pic3 },
   { title: 'Marketing Products', desc: 'Modern grinder', image: pic4},
-  { title: 'Marketing Products', desc: 'Relaxation table', image: pic5 },
+  { title: 'Marketing Products', desc: 'Laptop table', image: pic5 },
   { title: 'Marketing Products', desc: 'BP machine', image: pic6 },
   { title: 'Marketing Products', desc: 'Bath set', image: pic7},
-  { title: 'Marketing Products', desc: 'Holder', image: pic8 },
+  { title: 'Marketing Products', desc: 'Phone holder', image: pic8 },
   { title: 'Marketing Products', desc: 'Plate set', image: pic9},
  
 ];
